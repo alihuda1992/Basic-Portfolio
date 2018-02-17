@@ -1,0 +1,55 @@
+header {
+    background-color:white;
+    color: grey;
+    width: 100%;
+    padding-top:45px;
+    padding-bottom: 45px;
+
+
+}
+.clearfix {
+    overflow: auto;
+}
+
+body {
+    background:("../assets/images/background.png");
+    background-color: grey;
+
+}
+
+.name {
+    margin-top: -45px;
+   text-align: center;
+   padding-top: 40px;
+   padding-right: 50px;
+   padding-bottom: 25px;
+   padding-left: 50px;
+    margin-left: 150px;
+    float: left;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 22px;
+}
+
+nav {
+    float: right;
+    padding-right: 30px;
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+    margin-top: -10px;
+
+}
+
+a:link {
+    color:grey;
+}
+
+
+section {
+    background-image:url("assets/images/background.png");
+    background-repeat: repeat-x;
+    background-color: grey;
+    width: 100%;
+    height: 50%;
+}
